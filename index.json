@@ -1,5 +1,6 @@
 {
-  "index_name": "cc-t_playlist",
+  "latestVersion": "0.0.1",
+  "indexName":"PersonalPlaylist",
   "songs": [
     {
       "type": "song",
